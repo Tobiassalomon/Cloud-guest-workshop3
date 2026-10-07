@@ -5,7 +5,6 @@ import { site } from "./content";
 import { totalPrice } from "./lib/price";
 
 
-
 const app = document.querySelector<HTMLElement>("#app")!;
 
 app.innerHTML = `
